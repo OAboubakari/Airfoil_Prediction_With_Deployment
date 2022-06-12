@@ -7,4 +7,4 @@
 
 ------------------
 Prevision du profil aerodynamique
-[lien de l'applicatio:](https://airfoil-prediction87.herokuapp.com)
+[lien de l'application:](https://airfoil-prediction87.herokuapp.com)
