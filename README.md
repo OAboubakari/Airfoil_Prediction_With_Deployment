@@ -1,4 +1,4 @@
-# Airfoil_Regression_With_Deployment
+# Airfoil_Prediction_With_Deployment
 [App link here :](https://airfoil-prediction87.herokuapp.com)
 
 
